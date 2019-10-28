@@ -1,2 +1,15 @@
 Bidones -> cans
 Inyector -> injector/nozzle/spray valves/¿blaster?/¿blower?
+Pulidoras -> polisher/grinder/polishing machine
+Almacen de productos acabados -> Finished product warehouse
+Formulación -> 
+Dosificación ->
+Mezcla -> Mix
+Cestones -> 
+Contenedor de desperdicios -> ¿Waste container?
+Patio interior ->
+Palets ->
+Empaquetados y expediciones -> (wrap) & ¿expeditions?
+Materias primas y moldes ->
+Serigrafiado -> (serigrafia -> silk-screening)
+Secadero -> (secar -> dry)
